@@ -1,0 +1,1 @@
+Quick time acquisition by decreasing amount of eye movement.
